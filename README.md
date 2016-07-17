@@ -1,6 +1,7 @@
 fh-rest-mysql-adapter
 =====================
-[![Circle CI](https://circleci.com/gh/feedhenry-staff/fh-rest-mysql-adapter/tree/master.svg?style=svg)](https://circleci.com/gh/ffeedhenry-staff/fh-rest-mysql-adapter/tree/master)
+[![Travis CI](https://travis-ci.org/feedhenry-staff/fh-rest-mysql-adapter.svg)](https://travis-ci.org/feedhenry-staff/fh-rest-mysql-adapter)
+
 
 An adapter that facilitates exposing a RESTful API that talks to a particular
 MySQL database table.
